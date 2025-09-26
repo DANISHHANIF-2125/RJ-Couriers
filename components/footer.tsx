@@ -14,7 +14,7 @@ export function Footer() {
               </div>
               <span className="text-xl font-bold">RJCouriers</span>
             </div>
-            <p className="text-sm text-muted-foreground">
+            <p className="text-sm">
               Fast, reliable, and secure package delivery services across the globe.
             </p>
             <div className="flex items-center space-x-2 text-sm">
@@ -35,11 +35,6 @@ export function Footer() {
               <li>
                 <Link href="/services/standard" className="hover:text-primary transition-colors">
                   Standard Shipping
-                </Link>
-              </li>
-              <li>
-                <Link href="/services/international" className="hover:text-primary transition-colors">
-                  International Shipping
                 </Link>
               </li>
               <li>
@@ -83,21 +78,21 @@ export function Footer() {
             <ul className="space-y-2 text-sm">
               <li className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>02225151763</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>support@rjcouriers.com</span>
+                <span>rjcollege@rjcollege.edu.in</span>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span>123 Logistics Ave, City, State 12345</span>
+                <span>Opposite Ghatkopar Railway Station Ghatkopar(West),Mumbai 400086,Maharashtra,India</span>
               </li>
             </ul>
           </div>
         </div>
 
-        <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
+        <div className="border-t border-border mt-8 pt-8 text-center text-sm ">
           <p>&copy; 2025 RJCouriers. All rights reserved. | Privacy Policy | Terms of Service</p>
         </div>
       </div>

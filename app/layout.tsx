@@ -9,7 +9,7 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "RJCouriers - Fast & Reliable Package Delivery Worldwide",
   description:
-    "Professional courier services with real-time tracking, competitive rates, and guaranteed delivery times. Express, standard, and international shipping available.",
+    "Professional courier services with real-time tracking, competitive rates, and guaranteed delivery times. Express, standard, and bulk shipping options available.",
   generator: "v0.app",
 }
 

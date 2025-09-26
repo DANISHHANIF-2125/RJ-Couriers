@@ -47,12 +47,6 @@ export function Navigation() {
                     <span>Standard Shipping</span>
                   </Link>
                 </DropdownMenuItem>
-                <DropdownMenuItem asChild>
-                  <Link href="/services/international" className="flex items-center space-x-2">
-                    <MapPin className="h-4 w-4" />
-                    <span>International</span>
-                  </Link>
-                </DropdownMenuItem>
               </DropdownMenuContent>
             </DropdownMenu>
 
